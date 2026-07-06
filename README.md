@@ -1,6 +1,6 @@
 # 👋 Hey Everyone!
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Yehwala+Obssi;Computer+Science+Student;Full-Stack+Developer;Problem+Solver" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=3B82F6&center=true&vCenter=true&width=750&lines=Hi,+I'm+Yehwala+Obssi;Computer+Science+Student;Full-Stack+Developer;Problem+Solver" />
 
 ### 💻 Computer Science Student / Full-Stack Developer / Problem Solver
 
@@ -16,108 +16,200 @@ My goal is to build software that is simple, reliable, and impactful while growi
 
 ## 💼 What I Do
 
-- 🌐 Develop responsive and modern web applications
-- ⚛️ Build interactive user interfaces with React
-- 🖥️ Develop RESTful APIs using Node.js & Express
-- 🍃 Design and manage MongoDB databases
-- 🐍 Solve programming problems using Python
-- 🔧 Build full-stack applications
-- 📚 Continuously improve through real-world projects
+- 🌐 Develop responsive and modern web applications  
+- ⚛️ Build interactive user interfaces with React  
+- 🖥️ Develop RESTful APIs using Node.js & Express  
+- 🍃 Design and manage MongoDB databases  
+- 🐍 Solve programming problems using Python  
+- 🔧 Build full-stack applications  
+- 📚 Continuously improve through real-world projects  
 
 ---
 
 ## 🛠 Tech Stack
 
 ### 💻 Languages
-<img src="https://skillicons.dev/icons?i=javascript,python,html,css" width="180"/>
+
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" width="50"/><br>
+Python
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=cpp" width="50"/><br>
+C++
+</td>
+</tr>
+</table>
 
 ---
 
 ### ⚛️ Frontend
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind" width="140"/>
+
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html" width="50"/><br>
+HTML
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=css" width="50"/><br>
+CSS
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react" width="50"/><br>
+React
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=js" width="50"/><br>
+JavaScript
+</td>
+</tr>
+</table>
 
 ---
 
 ### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express" width="110"/>
+
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br>
+Node.js
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=express" width="50"/><br>
+Express
+</td>
+</tr>
+</table>
 
 ---
 
 ### 🗄 Database
-<img src="https://skillicons.dev/icons?i=mongodb" width="70"/>
+
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mongodb" width="50"/><br>
+MongoDB
+</td>
+</tr>
+</table>
 
 ---
 
 ### 🔧 Tools & Version Control
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" width="180"/>
+
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="50"/><br>
+Git
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github" width="50"/><br>
+GitHub
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vscode" width="50"/><br>
+VS Code
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postman" width="50"/><br>
+Postman
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub Statistics
 
-<p align="center">
+<div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=yeob9912&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeob9912&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
 ## 🔥 GitHub Streak
 
-<p align="center">
+<div align="center">
+
 <img src="https://streak-stats.demolab.com?user=yeob9912&theme=tokyonight&hide_border=true"/>
-</p>
+
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=yeob9912&theme=tokyonight&no-frame=true&margin-w=10"/>
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=yeob9912&theme=tokyonight&no-frame=true&margin-w=15"/>
+
+</div>
 
 ---
 
 ## 📌 Featured Projects
 
-### 💬 Chatbot
+### 💬 Chatbot  
 A full-stack chatbot application built with modern web technologies.
 
-🔗 **Chatbot Project**
+🔗 Chatbot Project: https://github.com/yeob9912/Chatbot
 
 ---
 
-### 🎓 Student Complaint System
+### 🎓 Student Complaint System  
 A full-stack system for managing and tracking student complaints efficiently.
 
-🔗 **Student Complaint System**
+🔗 Project: https://github.com/yeob9912/ASTU-STEAM-FINAL-PROJECT
 
 ---
 
 ## 📫 Connect With Me
 
-### GitHub
-<img src="https://skillicons.dev/icons?i=github" width="25"/>  
-yeob9912
+<table>
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github" width="60"/><br>
+GitHub<br>
+<a href="https://github.com/yeob9912">Profile</a>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=linkedin" width="60"/><br>
+LinkedIn<br>
+<a href="https://www.linkedin.com/in/yehwala-obssi-69989136a">Profile</a>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=gmail" width="60"/><br>
+Email<br>
+<a href="mailto:obssiyehwala@gmail.com">Send Mail</a>
+</td>
+
+</tr>
+</table>
 
 ---
 
-### LinkedIn
-<img src="https://skillicons.dev/icons?i=linkedin" width="25"/>  
-LinkedIn Profile
-
----
-
-### Gmail
-<img src="https://skillicons.dev/icons?i=gmail" width="25"/>  
-obssiyehwala@gmail.com
-
----
-
-## 💬 Truth
+## 💬 Favorite Quote
 
 > "Every expert was once a beginner. Keep learning, keep building." 🚀
 
