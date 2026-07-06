@@ -131,6 +131,7 @@ Postman
 </tr>
 </table>
 
+---
 
 ## 🔥 GitHub Streak
 
@@ -142,20 +143,19 @@ Postman
 
 ---
 
-
 ## 📌 Featured Projects
 
 ### 💬 Chatbot  
 A full-stack chatbot application built with modern web technologies.
 
-🔗 Chatbot Project: https://github.com/yeob9912/Chatbot
+🔗 **Chatbot Project**
 
 ---
 
 ### 🎓 Student Complaint System  
 A full-stack system for managing and tracking student complaints efficiently.
 
-🔗 Project: https://github.com/yeob9912/ASTU-STEAM-FINAL-PROJECT
+🔗 **Student Complaint System**
 
 ---
 
