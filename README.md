@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a Computer Science student who enjoys building modern, scalable, and user-friendly web applications. I enjoy writing clean code, solving programming problems, and continuously improving my software development skills.
+I'm a Computer Science student at ASTU , who enjoys building modern, scalable, and user-friendly web applications. I enjoy writing clean code, solving programming problems, and continuously improving my software development skills.
 
 My goal is to build software that is simple, reliable, and impactful while growing as a professional developer.
 
