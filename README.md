@@ -2,7 +2,7 @@
 
 # 👋 Hey Everyone!
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=3B82F6&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Yehwala+Obssi;Computer+Science+Student;Full-Stack+Developer;Problem+Solver;Welcome+to+my+GitHub+Profile!+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=3B82F6&center=true&vCenter=true&repeat=true&width=750&lines=Hi%2C+I'm+Yehwala+Obssi;Computer+Science+Student;Full-Stack+Developer;Problem+Solver;Welcome+to+my+GitHub+Profile!+🚀" alt="Typing SVG" />
 
 ### 💻 Computer Science Student / Full-Stack Developer / Problem Solver
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 I'm a Computer Science student who enjoys building modern, scalable, and user-friendly web applications. I enjoy writing clean code, solving programming problems, and continuously improving my software development skills.
 
@@ -18,7 +18,7 @@ My goal is to build software that is simple, reliable, and impactful while growi
 
 ---
 
-## 💼 What I Do
+# 💼 What I Do
 
 - 🌐 Develop responsive and modern web applications
 - ⚛️ Build interactive user interfaces with React
@@ -30,19 +30,43 @@ My goal is to build software that is simple, reliable, and impactful while growi
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 <div align="center">
 
-| Languages | Frontend | Backend | Database | Tools |
-|:---------:|:--------:|:-------:|:--------:|:-----:|
-| <img src="https://skillicons.dev/icons?i=javascript,python" /> | <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" /> | <img src="https://skillicons.dev/icons?i=nodejs,express" /> | <img src="https://skillicons.dev/icons?i=mongodb" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" /> |
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=javascript,python,html,css" />
+
+<br><br>
+
+### ⚛️ Frontend
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
+
+<br><br>
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+<br><br>
+
+### 🗄️ Database
+
+<img src="https://skillicons.dev/icons?i=mongodb" />
+
+<br><br>
+
+### 🔧 Version Control & Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Statistics
 
 <div align="center">
 
@@ -54,7 +78,7 @@ My goal is to build software that is simple, reliable, and impactful while growi
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <div align="center">
 
@@ -64,7 +88,7 @@ My goal is to build software that is simple, reliable, and impactful while growi
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -74,13 +98,15 @@ My goal is to build software that is simple, reliable, and impactful while growi
 
 ---
 
-## 📌 Featured Projects
+# 📌 Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/yeob9912/Chatbot">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=yeob9912&repo=Chatbot&theme=tokyonight&hide_border=true"/>
 </a>
+
+<br><br>
 
 <a href="https://github.com/yeob9912/ASTU-STEAM-FINAL-PROJECT">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=yeob9912&repo=ASTU-STEAM-FINAL-PROJECT&theme=tokyonight&hide_border=true"/>
@@ -90,19 +116,19 @@ My goal is to build software that is simple, reliable, and impactful while growi
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
 <div align="center">
 
-| GitHub | LinkedIn | Gmail |
+| GitHub | LinkedIn | Email |
 |:------:|:--------:|:-----:|
-| <a href="https://github.com/yeob9912"><img src="https://skillicons.dev/icons?i=github" width="60"/><br><b>GitHub</b></a> | <a href="https://www.linkedin.com/in/yehwala-obssi-69989136a"><img src="https://skillicons.dev/icons?i=linkedin" width="60"/><br><b>LinkedIn</b></a> | <a href="mailto:obssiyehwala@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="60"/><br><b>Email</b></a> |
+| <a href="https://github.com/yeob9912"><img src="https://skillicons.dev/icons?i=github" width="60"/><br>GitHub</a> | <a href="https://www.linkedin.com/in/yehwala-obssi-69989136a"><img src="https://skillicons.dev/icons?i=linkedin" width="60"/><br>LinkedIn</a> | <a href="mailto:obssiyehwala@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="60"/><br>Email</a> |
 
 </div>
 
 ---
 
-## 💬 Favorite Quote
+# 💬 Favorite Quote
 
 > **"Every expert was once a beginner. Keep learning, keep building."** 🚀
 
@@ -110,7 +136,7 @@ My goal is to build software that is simple, reliable, and impactful while growi
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=yeob9912&label=Profile+Views&style=for-the-badge&color=0E75B6"/>
+<img src="https://komarev.com/ghpvc/?username=yeob9912&label=Profile%20Views&style=for-the-badge&color=0E75B6"/>
 
 </div>
 
