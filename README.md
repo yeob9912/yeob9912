@@ -1,16 +1,12 @@
-# Hey Everyone! 👋
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Yehwala+Obssi!;Computer+Science+Student;Full-Stack+Developer;Passionate+Problem+Solver;Welcome+to+my+GitHub+Profile!+🚀" alt="Typing SVG" />
-</p>
+# 👋 Hey Everyone!
 
-<h2 align="center">
-  I'm <span style="color:#3B82F6;">Yehwala Obssi</span> 👨‍💻
-</h2>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Yehwala+Obssi;Computer+Science+Student;Full-Stack+Developer;Passionate+Problem+Solver;Welcome+to+my+GitHub+Profile!+🚀" />
 
-<p align="center">
-💻 Computer Science Student • Full-Stack Developer • Passionate Problem Solver
-</p>
+### 💻 Computer Science Student • Full-Stack Developer • Passionate Problem Solver
+
+</div>
 
 ---
 
@@ -22,7 +18,7 @@ My goal is to build software that is simple, reliable, and impactful while growi
 
 ---
 
-# 🚀 What I Do
+## 🚀 What I Do
 
 - 🌐 Develop responsive and modern web applications
 - ⚛️ Build interactive user interfaces with React
@@ -34,125 +30,134 @@ My goal is to build software that is simple, reliable, and impactful while growi
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
+
+<div align="center">
 
 ### 💻 Languages
 
-<p>
 <img src="https://skillicons.dev/icons?i=javascript,python" />
-</p>
 
 ### ⚛️ Frontend
 
-<p>
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" />
-</p>
 
 ### ⚙️ Backend
 
-<p>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
 
-### 🗄 Database
+### 🗄️ Database
 
-<p>
 <img src="https://skillicons.dev/icons?i=mongodb" />
-</p>
 
 ### 🔧 Version Control & Tools
 
-<p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
-</p>
+
+</div>
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yeob9912&show_icons=true&theme=tokyonight&hide_border=true"/>
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeob9912&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yeob9912&show_icons=true&theme=tokyonight&hide_border=true" />
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeob9912&layout=compact&theme=tokyonight&hide_border=true" />
 
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=yeob9912&theme=tokyonight&hide_border=true"/>
-</p>
+</div>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🔥 GitHub Streak
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=yeob9912&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
+<div align="center">
 
----
+<img src="https://streak-stats.demolab.com?user=yeob9912&theme=tokyonight&hide_border=true" />
 
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation"/>
-</p>
+</div>
 
 ---
 
-# 📌 Featured Projects
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=yeob9912&theme=tokyonight&no-frame=true&margin-w=15" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+> *Requires GitHub Actions to generate the animation.*
+
+---
+
+## 📌 Featured Projects
 
 ### 💬 Chatbot
 
 A modern AI-powered chatbot built with modern full-stack technologies.
 
-🔗 **[Chatbot Project](https://github.com/yeob9912/Chatbot)**
+➡️ **[View Chatbot Project](https://github.com/yeob9912/Chatbot)**
 
-<br>
+---
 
 ### 🎓 Student Complaint System
 
 A full-stack web application developed to streamline the process of submitting, tracking, and managing student complaints efficiently.
 
-🔗 **[Student Complaint System](https://github.com/yeob9912/ASTU-STEAM-FINAL-PROJECT)**
+➡️ **[View Student Complaint System](https://github.com/yeob9912/ASTU-STEAM-FINAL-PROJECT)**
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/yeob9912">
-<img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
 
 <a href="https://www.linkedin.com/in/yehwala-obssi-69989136a">
-<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 <a href="mailto:obssiyehwala@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" alt="Email"/>
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-</p>
+</div>
 
 ---
 
-# 💬 Truth. 
+## 💬 Favorite Quote
 
-> *"Every expert was once a beginner. Keep learning, keep building."* 🚀
-
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=yeob9912&label=Profile+Views&color=0e75b6&style=flat"/>
-</p>
+> **"Every expert was once a beginner. Keep learning, keep building."** 🚀
 
 ---
 
-## ⭐ Thanks for visiting my profile!
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=yeob9912&label=Profile+Views&style=for-the-badge&color=0E75B6" />
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
 
 If you like my projects, don't forget to **⭐ Star** them and feel free to connect with me.
-```
+
+</div>
