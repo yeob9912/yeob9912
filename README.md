@@ -148,14 +148,14 @@ Postman
 ### 💬 Chatbot  
 A full-stack chatbot application built with modern web technologies.
 
-🔗 **Chatbot Project**
+🔗 **[Chatbot Project](https://github.com/yeob9912/Chatbot)**
 
 ---
 
 ### 🎓 Student Complaint System  
 A full-stack system for managing and tracking student complaints efficiently.
 
-🔗 **Student Complaint System**
+🔗 **[Student Complaint System](https://github.com/yeob9912/ASTU-STEAM-FINAL-PROJECT)**
 
 ---
 
